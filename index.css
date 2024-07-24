@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8fa; /* Rosa pastel */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f8bbd0;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #880e4f;
+}
+
+.login, .post {
+    margin-top: 20px;
+}
+
+label {
+    color: #880e4f;
+}
+
+input, textarea, button {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #880e4f;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #880e4f;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ad1457;
+}
